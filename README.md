@@ -1,5 +1,5 @@
 # SleepAlert
-## A real time sleep detector - for safety purpose alarm
+## A real time Behavioral Drowsiness detector - for safety purpose alarm
 
 ## Context
 
