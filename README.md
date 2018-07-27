@@ -7,6 +7,10 @@ In recent years, driver drowsiness has been one of the major causes of road acci
 
 A driver who falls asleep at the wheel loses control of the vehicle, an action which often results in a crash with either another vehicle or stationary objects. In order to prevent these devastating accidents, the state of drowsiness of the driver should be monitored.
 
+Drowsy driving kills. According to the National Highway Traffic Safety Administration, drowsy driving caused 824 deaths in 2015, the last year for which figures are available.
+
+Several manufacturers, including Audi, Mercedes and Volvo, currently offer drowsiness detection systems that monitor a vehicle’s movements, such as steering wheel angle, lane deviation, time driven and road conditions.
+
 # Behavioral Measures
 
 A drowsy person displays a number of characteristic facial movements, including rapid and constant blinking, nodding or swinging their head, and frequent yawning. Computerized, non-intrusive, behavioral approaches are widely used for determining the drowsiness level of drivers by measuring their abnormal behaviors. Most of the published studies on using behavioral approaches to determine drowsiness, focus on blinking. 
@@ -39,6 +43,8 @@ Detecting Driver Drowsiness Based on Sensors: A Review - https://www.ncbi.nlm.ni
 Eye-tracking system monitors driver fatigue, prevents sleeping at wheel - https://www.wired.co.uk/article/eye-tracking-mining-system
 
 Detection and prediction of driver drowsiness using artificial neural network models - https://www.sciencedirect.com/science/article/pii/S0001457517304347 
+
+Sleepy Behind the Wheel? Some Cars Can Tell - https://www.nytimes.com/2017/03/16/automobiles/wheels/drowsy-driving-technology.html
 
 
 
