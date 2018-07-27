@@ -27,6 +27,16 @@ Real-Time Sleep Detection and Warning Systems like this can be proposed and impl
 
 In critical environments this kind of system can help to estimate and measure the driver attention, the percentage of oxygen in the blood of the driver (when combined with an oxygen saturation sensor) and to check if driver is failing a sleep. In addition this kind of system can rely on a Real time vital signs monitoring system to measure the vital signs values (In critical environments). 
 
+## Requirements 
+
+Pre-trained Shape Predictor Dlib Model - shape_predictor_68_face_landmarks.dat (https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat)
+
+Python 
+imutils 
+dlib 
+cv2 
+numpy
+
 ## Future Improvements
 
 The model will predict when critical impairment will occur.
