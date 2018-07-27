@@ -5,6 +5,14 @@
 
 In recent years, driver drowsiness has been one of the major causes of road accidents and can lead to severe physical injuries, deaths and significant economic losses. Statistics indicate the need of a reliable driver drowsiness detection system which could alert the driver before a mishap happens. 
 
+A driver who falls asleep at the wheel loses control of the vehicle, an action which often results in a crash with either another vehicle or stationary objects. In order to prevent these devastating accidents, the state of drowsiness of the driver should be monitored.
+
+# Behavioral Measures
+
+A drowsy person displays a number of characteristic facial movements, including rapid and constant blinking, nodding or swinging their head, and frequent yawning. Computerized, non-intrusive, behavioral approaches are widely used for determining the drowsiness level of drivers by measuring their abnormal behaviors. Most of the published studies on using behavioral approaches to determine drowsiness, focus on blinking. 
+
+Some researchers used multiple facial actions, including inner brow rise, outer brow rise, lip stretch, jaw drop and eye blink, to detect drowsiness. However, research on using other behavioral measures, such as yawning and head or eye position orientation, to determine the level of drowsiness is ongoing.
+
 ## How does SleepAlert work?
 
 If the users do close their eyes for longer than expected -- generally anything longer than 1.6 seconds -- an alarm message is shown, (it can be combined with a noise in future versions) and a log event is recorded.
@@ -25,8 +33,12 @@ In critical environments this kind of system can help to estimate and measure th
     
 ## References
 Umesh Prabushitha Jayasinghe - https://github.com/prabushitha/Sleep-Recognition
+
 Detecting Driver Drowsiness Based on Sensors: A Review - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3571819/
+
 Eye-tracking system monitors driver fatigue, prevents sleeping at wheel - https://www.wired.co.uk/article/eye-tracking-mining-system
+
+Detection and prediction of driver drowsiness using artificial neural network models - https://www.sciencedirect.com/science/article/pii/S0001457517304347 
 
 
 
