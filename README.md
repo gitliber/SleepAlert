@@ -11,6 +11,8 @@ Drowsy driving kills. According to the National Highway Traffic Safety Administr
 
 Several manufacturers, including Audi, Mercedes and Volvo, currently offer drowsiness detection systems that monitor a vehicle’s movements, such as steering wheel angle, lane deviation, time driven and road conditions.
 
+<img src="images/sleeprec.gif">
+
 # Behavioral Measures
 
 A drowsy person displays a number of characteristic facial movements, including rapid and constant blinking, nodding or swinging their head, and frequent yawning. Computerized, non-intrusive, behavioral approaches are widely used for determining the drowsiness level of drivers by measuring their abnormal behaviors. Most of the published studies on using behavioral approaches to determine drowsiness, focus on blinking. 
