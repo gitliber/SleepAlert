@@ -23,13 +23,13 @@ In critical environments this kind of system can help to estimate and measure th
 
 ## Future Improvements
 
-    The model will predict when critical impairment will occur.
+The model will predict when critical impairment will occur.
 
-    The Model accuracy will be greater with behavioral (eye and head) indicators.
+The Model accuracy will be greater with behavioral (eye and head) indicators.
 
-    Driving time data will improve model detection and prediction performance.
+Driving time data will improve model detection and prediction performance.
     
-    The computer vision algorithms will track human eye and eyelid behaviour, looking for the frequency of blinking, duration of blinks and the velocity of the eyelid.
+The computer vision algorithms will track human eye and eyelid behaviour, looking for the frequency of blinking, duration of blinks and the velocity of the eyelid.
     
 ## References
 Umesh Prabushitha Jayasinghe - https://github.com/prabushitha/Sleep-Recognition
