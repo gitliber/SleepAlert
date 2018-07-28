@@ -58,5 +58,9 @@ Detection and prediction of driver drowsiness using artificial neural network mo
 
 Sleepy Behind the Wheel? Some Cars Can Tell - https://www.nytimes.com/2017/03/16/automobiles/wheels/drowsy-driving-technology.html
 
-
+Jair Ribeiro 
+<br>
+<img src="LinkProf.jpeg" style="width: auto; height: auto; " /> <br>
+<br>
+https://www.linkedin.com/in/jairribeiro/
 
