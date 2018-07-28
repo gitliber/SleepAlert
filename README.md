@@ -60,7 +60,7 @@ Sleepy Behind the Wheel? Some Cars Can Tell - https://www.nytimes.com/2017/03/16
 
 Jair Ribeiro 
 <br>
-<img src="LinkProf.jpeg" style="width: auto; height: auto; " /> <br>
+<img src="https://raw.githubusercontent.com/gitliber/Basic_self_driving_car/master/LinkProf.jpeg" style="width: auto; height: auto; " /> <br>
 <br>
 https://www.linkedin.com/in/jairribeiro/
 
